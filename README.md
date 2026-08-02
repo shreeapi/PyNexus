@@ -18,7 +18,7 @@ penetration testing**.
 ## Quickstart
 
 ```bash
-git clone https://github.com/<your-username>/PyNexus.git
+git clone https://github.com/shreeapi/PyNexus.git
 cd PyNexus
 chmod +x install.sh && ./install.sh
 source venv/bin/activate
@@ -98,7 +98,7 @@ PyNexus/
 ### Quick setup (Kali Linux / Debian / Ubuntu)
 
 ```bash
-git clone https://github.com/<your-username>/PyNexus.git
+git clone https://github.com/shreeapi/PyNexus.git
 cd PyNexus
 chmod +x install.sh
 ./install.sh
@@ -115,7 +115,7 @@ python3 main.py discover
 ### Manual setup (any OS)
 
 ```bash
-git clone https://github.com/<your-username>/PyNexus.git
+git clone https://github.com/shreeapi/PyNexus.git
 cd PyNexus
 python3 -m venv venv
 source venv/bin/activate      # Windows: venv\Scripts\activate
