@@ -1,0 +1,13 @@
+rich>=13.7.0
+colorama>=0.4.6
+dnspython>=2.6.1
+requests>=2.31.0
+python-whois>=0.9.4
+psutil>=5.9.8
+aiohttp>=3.9.3
+
+# Optional (enables ARP discovery and SYN scanning; requires elevated privileges)
+scapy>=2.5.0
+
+# Optional (only needed if you want to shell out to the real nmap binary)
+python-nmap>=0.7.1

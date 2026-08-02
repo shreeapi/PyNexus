@@ -1,0 +1,19 @@
+{
+  "00:1A:2B": "Cisco Systems",
+  "00:1B:63": "Apple, Inc.",
+  "3C:5A:B4": "Google, Inc.",
+  "B8:27:EB": "Raspberry Pi Foundation",
+  "DC:A6:32": "Raspberry Pi Trading Ltd",
+  "00:50:56": "VMware, Inc.",
+  "00:0C:29": "VMware, Inc.",
+  "08:00:27": "Oracle VirtualBox",
+  "00:1C:42": "Parallels, Inc.",
+  "F0:9F:C2": "Ubiquiti Networks",
+  "AC:DE:48": "Private (Locally Administered)",
+  "00:15:5D": "Microsoft Hyper-V",
+  "00:16:3E": "Xen Virtual Machine",
+  "00:1E:C2": "Apple, Inc.",
+  "3C:D9:2B": "Hewlett Packard Enterprise",
+  "00:24:D7": "Intel Corporate",
+  "44:65:0D": "Amazon Technologies Inc."
+}
